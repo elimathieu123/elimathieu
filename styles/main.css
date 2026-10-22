@@ -409,10 +409,10 @@ img {
    ========================================================================== */
 html {
   scroll-behavior: smooth;
-  overflow-x: clip;
 }
 
 body {
+  overflow-x: clip;
   width: 100%;
   font-family: var(--font-primary);
   font-size: var(--font-size-content);
@@ -1733,8 +1733,8 @@ strong {
 }
 
 /*==================================
-----------header-------------------
-===================================*/
+  ----------header-------------------
+  ===================================*/
 .logo a {
   font-family: "Paytone One", sans-serif;
   font-size: var(--logo-font);
