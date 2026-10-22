@@ -1745,6 +1745,7 @@ strong {
 
 .header {
   border-bottom: 3px var(--secondary-color) solid;
+  background-color: rgba(0, 0, 0, 0.4);
 }
 .header .logo {
   text-align: end;
